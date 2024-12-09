@@ -1,0 +1,6 @@
+@GreenTalk.API_HostAddress = http://localhost:5167
+
+GET {{GreenTalk.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
